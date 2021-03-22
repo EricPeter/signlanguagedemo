@@ -5,7 +5,8 @@
   "dependencies": {
     "deeplearn": "~0.5.0",
     "deeplearn-knn-image-classifier": "^0.3.0",
-    "heroku": "^7.51.0",
+    "heroku": "^7.2.0",
+    "heroku-cli-buildpacks": "^0.0.12-beta.3",
     "pre-commit": "^1.2.2"
   },
   "scripts": {
