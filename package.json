@@ -14,7 +14,6 @@
     "deeplearn-knn-image-classifier": "^0.3.0",
     "express": "^4.17.1",
     "heroku": "^7.2.0",
-    "heroku-cli-buildpacks": "^0.0.12-beta.3",
     "pre-commit": "^1.2.2"
   },
   "scripts": {
